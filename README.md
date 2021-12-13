@@ -1,4 +1,4 @@
-# ISCHOOL-ENROLL
+# API de matrícula de discentes.
 ### Com o objetivo geral de desenvolver uma API que possa permitir um sistema de matrícula mais gerencial e dinâmico para uma escola de ensino fundamental I. Para permitir que o processo de matrícula escolar e gerenciamento de turmas possam acontecer fora do espaço físico e onde o gerenciamento das turmas criadas possam ser tocados em qualquer momento do dia.
 
 ## Casos de usos
