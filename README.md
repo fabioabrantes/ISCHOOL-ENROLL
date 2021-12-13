@@ -1,5 +1,5 @@
 # ISCHOOL-ENROLL
-## Com o objetivo geral de desenvolver uma API que possa permitir um sistema de matrícula mais gerencial e dinâmico para uma escola de ensino fundamental I. Para permitir que o processo de matrícula escolar e gerenciamento de turmas possam acontecer fora do espaço físico e onde o gerenciamento das turmas criadas possam ser tocados em qualquer momento do dia.
+### Com o objetivo geral de desenvolver uma API que possa permitir um sistema de matrícula mais gerencial e dinâmico para uma escola de ensino fundamental I. Para permitir que o processo de matrícula escolar e gerenciamento de turmas possam acontecer fora do espaço físico e onde o gerenciamento das turmas criadas possam ser tocados em qualquer momento do dia.
 
 ## Casos de usos
 - [x] RF_01: Cria Conta - O sistema deve persistir nos seguintes dados obrigatórios do usuário: matrícula, nome, data de nascimento, email, senha, endereço e ocupação.
